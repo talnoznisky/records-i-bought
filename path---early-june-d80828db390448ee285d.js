@@ -1,0 +1,2 @@
+webpackJsonp([0x6c8e8dbdb90c],{332:function(e,r){e.exports={data:{markdownRemark:{html:"<p><strong><em>Crude Tracer</em></strong><br>\n<em>Tourist Kid</em><br>\nblah</p>\n<p><strong><em>Your Planet is Next</em></strong><br>\n<em>Laid Back EP</em><br>\nblah</p>\n<p><strong><em>Stan Getz and Charlie Byrd</em></strong><br>\n<em>Jazz Samba</em><br>\nblah</p>",frontmatter:{date:"June 11, 2018",path:"/early-june",title:"Crude Tracer, Your Planet is Next, Getz + Byrd"}}},pathContext:{}}}});
+//# sourceMappingURL=path---early-june-d80828db390448ee285d.js.map

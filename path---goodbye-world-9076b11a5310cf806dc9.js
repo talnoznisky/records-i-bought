@@ -1,0 +1,2 @@
+webpackJsonp([0x69446a212c28],{336:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Breakin my back just to know your name\nBut heaven ain't close in a place like this\nAnything goes but...</p>",frontmatter:{date:"April 23, 2018",path:"/goodbye-world",title:"My Second Gatsby Post"}}},pathContext:{}}}});
+//# sourceMappingURL=path---goodbye-world-9076b11a5310cf806dc9.js.map

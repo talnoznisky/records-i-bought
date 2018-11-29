@@ -1,0 +1,2 @@
+webpackJsonp([93319218625808],{335:function(t,a){t.exports={data:{markdownRemark:{html:'<p>I used to love this album\n<img src="311_transistor.jpg"></p>',frontmatter:{date:"April 25, 2018",path:"/image-test",title:"Trying to add a picture"}}},pathContext:{}}}});
+//# sourceMappingURL=path---image-test-d866fc336b0ebd1668c3.js.map

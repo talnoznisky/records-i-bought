@@ -1,0 +1,2 @@
+webpackJsonp([0x834755aae49e],{337:function(t,o){t.exports={data:{markdownRemark:{html:"<p>If a brick didn't know how to sit on walls no more\nwhat would you ask it.</p>",frontmatter:{date:"April 22, 2018",path:"/hello-world",title:"My First Gatsby Post"}}},pathContext:{}}}});
+//# sourceMappingURL=path---hello-world-9aef0f9975a78eab8df8.js.map
