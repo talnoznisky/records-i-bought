@@ -8,6 +8,10 @@
       "path----cac63ff5c1b42581353c.js",
       "path----cac63ff5c1b42581353c.js.map"
     ],
+    "path---coltrane-kahuun-rimarimba": [
+      "path---coltrane-kahuun-rimarimba-4f751fa9937c696b9886.js",
+      "path---coltrane-kahuun-rimarimba-4f751fa9937c696b9886.js.map"
+    ],
     "path---small-haul-1": [
       "path---small-haul-1-7b4277d18e2ebdf9a122.js",
       "path---small-haul-1-7b4277d18e2ebdf9a122.js.map"
@@ -37,8 +41,12 @@
       "path---patient-sounds-at-reckless-2068331a0df660da9dc6.js.map"
     ],
     "path---index": [
-      "path---index-bc4cd7ccc1c529c88091.js",
-      "path---index-bc4cd7ccc1c529c88091.js.map"
+      "path---index-6711e05eccaa7b2cc2b3.js",
+      "path---index-6711e05eccaa7b2cc2b3.js.map"
+    ],
+    "path---the-blow-lee-morgan-etc": [
+      "path---the-blow-lee-morgan-etc-385478d5ee443edf98d5.js",
+      "path---the-blow-lee-morgan-etc-385478d5ee443edf98d5.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -67,9 +75,9 @@
       "path---mid-may-99a7dfe8a237302ba909.js.map"
     ],
     "app": [
-      "app-8bd03958fb9117d70a6c.js",
+      "app-1d66420cda6f64272ca2.js",
       "build-js-styles.css",
-      "app-8bd03958fb9117d70a6c.js.map",
+      "app-1d66420cda6f64272ca2.js.map",
       "build-js-styles.css.map"
     ],
     "path---first-week-in-chicago": [
